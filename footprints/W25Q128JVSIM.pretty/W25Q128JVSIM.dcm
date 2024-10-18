@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP W25Q128JVSIM
+D 128M-bit Serial Flash Memory with uniform 4KB sectors and Dual/Quad SPI
+K
+F https://www.winbond.com/hq/search-resource-file.jsp?partNo=W25Q128JVSIM&type=datasheet
+$ENDCMP
+#
+#End Doc Library

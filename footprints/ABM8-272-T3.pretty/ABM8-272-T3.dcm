@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABM8-272-T3
+D Crystal, 12 MHz, SMD, 3.2mm x 2.5mm, 30 ppm, 10 pF, 30 ppm, ABM8 Series
+K
+F https://abracon.com/datasheets/ABM8-272-T3.pdf
+$ENDCMP
+#
+#End Doc Library

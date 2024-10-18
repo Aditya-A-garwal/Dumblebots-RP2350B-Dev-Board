@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UA78M33CDCYG3
+D Linear Voltage Regulators 3.3 V 500mA Fix Pos Voltage Regulator
+K
+F http://www.ti.com/lit/ds/symlink/ua78m.pdf
+$ENDCMP
+#
+#End Doc Library
