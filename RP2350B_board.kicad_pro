@@ -58,22 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|125700001|60160001|c4428204-5c8f-4439-a7bd-8e4aadc5c46f|e2f637b0-d460-4db7-9239-5c58198e10b3",
-        "courtyards_overlap|128200001|60160001|c4428204-5c8f-4439-a7bd-8e4aadc5c46f|ca25acd1-f517-4298-8165-a8854b5e6a3d",
-        "courtyards_overlap|163200001|60200001|76e3644e-aadd-41cd-be2e-8f01bb1b3622|f3e1b498-f74e-430f-9009-2a2db9a1f17c",
-        "courtyards_overlap|165700001|60200001|0578366b-22e7-4720-867f-cfd8b3afbd61|76e3644e-aadd-41cd-be2e-8f01bb1b3622",
-        "lib_footprint_mismatch|125000000|92435000|e2f637b0-d460-4db7-9239-5c58198e10b3|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|127500000|92435000|c4428204-5c8f-4439-a7bd-8e4aadc5c46f|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|130000000|92435000|ca25acd1-f517-4298-8165-a8854b5e6a3d|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|146250000|122750000|e982ad02-b41c-42f4-a706-7c4e2cc6965f|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|162500000|92475000|f3e1b498-f74e-430f-9009-2a2db9a1f17c|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|165000000|92475000|76e3644e-aadd-41cd-be2e-8f01bb1b3622|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|167500000|92475000|0578366b-22e7-4720-867f-cfd8b3afbd61|00000000-0000-0000-0000-000000000000",
-        "unconnected_items|143850000|66813333|1fe0b019-2771-4fcc-add7-aa782267a2c5|ac393e96-176b-458d-a665-22465371f58b",
-        "unconnected_items|146500000|66813333|17da6807-df00-4687-9cc4-4f4e1c240a76|4bf281fd-0a6b-426c-8cca-47b97b6e2ada",
-        "unconnected_items|147000000|66813333|d710a0d4-2ca6-4527-9eba-7c1bbb26e505|321ef344-5278-4cbf-8cbc-91a57950ffe5"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -623,6 +608,22 @@
     [
       "a6c7ba25-7567-4181-a896-837e86d95105",
       "Root"
+    ],
+    [
+      "4ece4fbc-e13a-4bf7-947d-bf5f7285696b",
+      "Connectors"
+    ],
+    [
+      "2ad041bc-5791-4323-805d-e5d89df08414",
+      "Clock"
+    ],
+    [
+      "ee229787-6283-4cef-80ac-6e33cef4f41a",
+      "Power"
+    ],
+    [
+      "e60ab9ea-9227-460c-b2ad-a901fdf97e23",
+      "Flash"
     ]
   ],
   "text_variables": {}

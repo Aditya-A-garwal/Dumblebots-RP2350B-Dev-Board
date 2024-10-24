@@ -5,4 +5,6 @@
   (lib (name "PTS636_SM43_LFS")(type "KiCad")(uri "${KIPRJMOD}/symbols/PTS636_SM43_LFS.kicad_sym")(options "")(descr ""))
   (lib (name "UA78M33CDCYG3")(type "KiCad")(uri "${KIPRJMOD}/symbols/UA78M33CDCYG3.kicad_sym")(options "")(descr ""))
   (lib (name "W25Q128JVSIM")(type "KiCad")(uri "${KIPRJMOD}/symbols/W25Q128JVSIM.kicad_sym")(options "")(descr ""))
+  (lib (name "MEM2080-00-128-00-A")(type "KiCad")(uri "${KIPRJMOD}/symbols/MEM2080-00-128-00-A.kicad_sym")(options "")(descr ""))
+  (lib (name "NCP1117ST33T3G")(type "KiCad")(uri "${KIPRJMOD}/symbols/NCP1117ST33T3G.kicad_sym")(options "")(descr ""))
 )

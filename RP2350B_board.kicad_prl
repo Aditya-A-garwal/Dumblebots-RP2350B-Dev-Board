@@ -1,13 +1,13 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [
-      "GND",
-      "+1V1",
-      "/VREG_AVDD"
+      "VREG_PGND",
+      "IOVDD",
+      "DVDD"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -42,6 +42,7 @@
       9,
       10,
       11,
+      12,
       13,
       15,
       16,
@@ -67,7 +68,7 @@
       39,
       40
     ],
-    "visible_layers": "fffffcf_fffffffe",
+    "visible_layers": "fffffdf_ffffffff",
     "zone_display_mode": 0
   },
   "git": {

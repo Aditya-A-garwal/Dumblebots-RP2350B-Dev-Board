@@ -5,4 +5,6 @@
   (lib (name "PTS636_SM43_LFS")(type "KiCad")(uri "${KIPRJMOD}/footprints/PTS636_SM43_LFS.pretty")(options "")(descr ""))
   (lib (name "UA78M33CDCYG3")(type "KiCad")(uri "${KIPRJMOD}/footprints/UA78M33CDCYG3.pretty")(options "")(descr ""))
   (lib (name "W25Q128JVSIM")(type "KiCad")(uri "${KIPRJMOD}/footprints/W25Q128JVSIM.pretty")(options "")(descr ""))
+  (lib (name "MEM2080-00-128-00-A")(type "KiCad")(uri "${KIPRJMOD}/footprints/MEM2080-00-128-00-A.pretty")(options "")(descr ""))
+  (lib (name "NCP1117ST33T3G")(type "KiCad")(uri "${KIPRJMOD}/footprints/NCP1117ST33T3G.pretty")(options "")(descr ""))
 )
